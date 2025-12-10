@@ -1,0 +1,6 @@
+
+--DELETE THE TABLE PERSONS FROM THE DATA BASE
+
+DROP TABLE persons
+
+select* from people
